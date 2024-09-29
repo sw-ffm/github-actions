@@ -6,5 +6,3 @@ function test(): void
 {
     echo "Test";
 }
-
-test();
