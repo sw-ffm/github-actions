@@ -2,9 +2,9 @@
 
 # Test Linter
 
-function test()
+function test(): void
 {
-  echo "Test"
+    echo "Test";
 }
 
 test();
