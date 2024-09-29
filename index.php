@@ -1,6 +1,6 @@
 <?php 
 
-# Test Linter
+#Test Linter
 
 function test(): void
 {
